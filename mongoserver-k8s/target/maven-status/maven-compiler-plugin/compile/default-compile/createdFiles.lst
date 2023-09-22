@@ -1,0 +1,5 @@
+com\example\mongoserver\model\Server.class
+com\example\mongoserver\MongoserverApplication.class
+com\example\mongoserver\controllers\ServerController.class
+com\example\mongoserver\repositories\ServerRepository.class
+com\example\mongoserver\ServerNotFoundException.class
